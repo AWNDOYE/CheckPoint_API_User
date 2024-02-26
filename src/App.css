@@ -23,11 +23,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+li{
+  list-style: none;
+}
 .App-link {
   color: #61dafb;
 }
-
+h3{
+  background-color:blue; 
+  color:'white'
+}
+.Card{
+  width: 25rem;
+  background-color: #00153e;
+  color: 'white'; 
+  background-color: #00153e;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
